@@ -1,7 +1,8 @@
 
 <div align="center">
-
+    
 # InSearchOfMagnumOpus
+<p align="center"><sub>~ `Ritikesh Dutt`</sub></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=900&lines=Exploring+the+Mathematics+of+Things.;Compilers.;Systems+Programming.;Computer+Graphics.;Distributed+Systems.;Complex+Systems.;Rust." />
 <br>
